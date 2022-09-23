@@ -1,0 +1,12 @@
+.post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid #2277aa;
+    margin-top: 15px;
+}
+
+.post_content {
+    padding: 0 15px 0 0;
+}
